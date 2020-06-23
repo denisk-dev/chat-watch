@@ -1,0 +1,12 @@
+{
+  "name": "chat_and_watch",
+  "version": "1.0.0",
+  "description": "Join a room, chat with friends, stream your screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Kravchenko",
+  "license": "ISC",
+  "dependencies": {}
+}
